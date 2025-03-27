@@ -33,7 +33,8 @@ The dataset used for this project contains real-world data science job informati
 
 #### 📊 Data Science Job Salaries - Bar Chart
 
-![image](https://github.com/user-attachments/assets/3adcd776-6871-4137-bcec-2e39c0b3856c)
+<img src="https://github.com/user-attachments/assets/3adcd776-6871-4137-bcec-2e39c0b3856c" width="500">
+
 
 - 🛠️ **Excel Features:** Utilized bar chart feature (with formatted salary values) and optimized layout for clarity.
 - 🎨 **Design Choice:** Horizontal bar chart for visual comparison of median salaries.
@@ -67,7 +68,7 @@ IF(
 
 📉 Dashboard Implementation
 
-![image](https://github.com/user-attachments/assets/3980cadc-5297-453b-b606-13c62f9cf1bb)
+<img src="https://github.com/user-attachments/assets/3980cadc-5297-453b-b606-13c62f9cf1bb" width="500">
 
 #### ⏰ Count of Job Schedule Type
 
@@ -84,7 +85,7 @@ IF(
 
 📉 Dashboard Implementation:
 
-![image](https://github.com/user-attachments/assets/cedb9d05-9009-402b-8deb-c08eec2e870c)
+<img src="(https://github.com/user-attachments/assets/cedb9d05-9009-402b-8deb-c08eec2e870c" width="500">
 
 ### ❎ Data Validation
 
