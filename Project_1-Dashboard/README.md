@@ -20,6 +20,7 @@ Throughout the project, I utilized the following Excel skills:
 
 ## Dashboard Features
 ### 📊 Data Science Job Salaries – Bar Chart
+![image](https://github.com/user-attachments/assets/0b0f08ca-3677-4c76-9200-7fb744542d6e)
 - Excel Feature: Bar chart with formatted salary values
 - Design Choice: Horizontal layout for easy comparison
 - Data Organization: Sorted by descending salary for clarity
@@ -42,8 +43,10 @@ IF(
 - 📊 Array Formula: Utilizes MEDIAN() function with nested IF() statement to analyze an array.
 - 🎯 Tailored Insights: Provides specific salary information for job titles, regions, and schedule types.
 - 🔢 Formula Purpose: This formula populates the table below, returning the median salary based on job title, country, and type specified.
+### 🍽️ Background Table
 ![image](https://github.com/user-attachments/assets/4b2593b5-0a38-476b-9ccc-c771eb766730)
-
+###📉 Dashboard Implementation
+![image](https://github.com/user-attachments/assets/f23fdf8b-ece0-4688-9976-32b17b2d9941)
 
 
 
