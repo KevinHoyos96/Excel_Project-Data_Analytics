@@ -2,7 +2,6 @@
 
 ![image](https://github.com/user-attachments/assets/6dda92b9-5031-489b-8708-e94da5487eae)
 
-
 ## Introduction
 
 This salary dashboard is a project I completed as part of an Excel course, designed to analyze job salaries and help professionals assess fair compensation.
@@ -10,13 +9,13 @@ The dataset used in this dashboard contains real-world salary information from 2
 Through this project, I applied key Excel skills to organize, analyze, and visualize data effectively.
 
 ## Dashboard File
-![1_Salary_Dashboard.png](/0_Resources/Images/1_Salary_Dashboard_Final_Dashboard.gif)
+My final dashboard is in [Data Salary Calculator](https://github.com/KevinHoyos96/Excel_Project-Data_Analytics/blob/main/Project_1-Dashboard/Data%20Salary%20Calculator.xlsx).
 
 ## Excel Skills Acquired
-Throughout the project, I utilized the following Excel skills:
-📉 Charts – for visualizing salary trends
-🧮 Formulas and Functions – for calculating median salaries and filtering data
-❎ Data Validation – for ensuring clean and structured inputs
+Throughout the project, I utilized the following Excel skills:    
+📉 Charts – for visualizing salary trends  
+🧮 Formulas and Functions – for calculating median salaries and filtering data  
+❎ Data Validation – for ensuring clean and structured inputs  
 
 ## Dashboard Features
 ### 📊 Data Science Job Salaries – Bar Chart
@@ -44,7 +43,7 @@ IF(
 - 🎯 Tailored Insights: Provides specific salary information for job titles, regions, and schedule types.
 - 🔢 Formula Purpose: This formula populates the table below, returning the median salary based on job title, country, and type specified.
 ### 🍽️ Background Table
-![image](https://github.com/user-attachments/assets/4b2593b5-0a38-476b-9ccc-c771eb766730)
+![image](https://github.com/user-attachments/assets/4b2593b5-0a38-476b-9ccc-c771eb766730)  
 ###📉 Dashboard Implementation
 ![image](https://github.com/user-attachments/assets/f23fdf8b-ece0-4688-9976-32b17b2d9941)
 
