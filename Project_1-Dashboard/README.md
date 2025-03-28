@@ -103,7 +103,9 @@ IF(
 Completing this project allowed me to reinforce my Excel skills and gain hands-on experience in data analysis. By building this salary dashboard, I developed a better understanding of how job titles, locations, and work types influence salaries.
 This project demonstrates my ability to clean, analyze, and visualize real-world datasets using Excel.
 
+Finally, I want to thank Luke Barousse for making this course a free resource on YouTube. He is an excellent teacher, and I was able to follow along very swiftly.    
 
+### Here is his [Excel for Data Analysis Course](https://www.youtube.com/watch?v=pCJ15nGFgVg)
 
 
 
