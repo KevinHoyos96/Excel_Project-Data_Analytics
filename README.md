@@ -5,7 +5,7 @@ These folders contain 2 projects I did as part of an Excel course for data analy
 This data jobs salary dashboard was created to help job seeker investigate salaries for their desired jobs and ensure they are being adequately compensated.  
 [Check out my work here](Project_1-Dashboard)  
 
-![SalaryDashboard](https://github.com/user-attachments/assets/cf604874-0d1a-44f5-90e2-21fc06af5cbb)
+![image](https://github.com/user-attachments/assets/f816bcef-3ee2-4433-b217-2609914c5ac8)
 
 ## Salary Analysis
 These analyses come from a large database of job postings and are intended to understand the most optimal jobs and skills in the data science market.  
