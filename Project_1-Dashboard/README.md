@@ -6,7 +6,7 @@
 
 This salary dashboard is a project I completed as part of an Excel course, designed to analyze job salaries and help professionals assess fair compensation.
 The dataset used in this dashboard contains real-world salary information from 2023, covering job titles, salaries, locations, and essential skills. 
-Through this project, I applied key Excel skills to organize, analyze, and visualize data effectively.
+I applied key Excel skills to organize, analyze, and visualize data effectively through this project.
 
 ## Dashboard File
 My final dashboard is in [Data Salary Calculator](https://github.com/KevinHoyos96/Excel_Project-Data_Analytics/blob/main/Project_1-Dashboard/Data%20Salary%20Calculator.xlsx).
@@ -85,7 +85,7 @@ IF(
 
 📉 Dashboard Implementation:
 
-<img src="(https://github.com/user-attachments/assets/cedb9d05-9009-402b-8deb-c08eec2e870c" width="500">
+<img src="https://github.com/user-attachments/assets/b103901b-9eec-4e78-befc-ab26c30cd637" width="400">
 
 ### ❎ Data Validation
 
